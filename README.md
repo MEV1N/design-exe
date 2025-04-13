@@ -15,9 +15,4 @@
 ## **Installation**
 copy the files from my github repo and just run it like local html, css and js file you can also use the link :)
 
-## **Steps to run**  
-Care to explain?
-
-## **Acknowledgements**
-Give credit to any resources, tutorials, libraries helped you build your project.
 

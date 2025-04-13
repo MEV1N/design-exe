@@ -1,20 +1,19 @@
 ![Untitled-3](design.png)
-# **[Project Name]**
+# **Sustainable Future**
 
 
 **DESIGN.EXE designathon 2025**
 
-> A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
-
+> We collect waste materials from people and use it to make cool useful stuff
 
 ## **Link to figma file**
-Add the link here
+[figma file](https://www.figma.com/proto/NHXvpUmgwqz9FGg6Q3dYKf/Sustainable-Future?node-id=0-1&t=FWFnRaMaOuORP0tD-1)
 
 ## **Hosted url**
-Add the link here
+[Sustainable Future](https://design-exe-seven.vercel.app/)
 
 ## **Installation**
-How on earth can we set up your project up and running?
+copy the files from my github repo and just run it like local html, css and js file you can also use the link :)
 
 ## **Steps to run**  
 Care to explain?
